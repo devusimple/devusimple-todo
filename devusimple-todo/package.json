@@ -1,0 +1,10 @@
+{
+  "name": "devusimple-todo",
+  "version": "1.0.0",
+  "description": "A simple session memory base todo create package, that help us simplefy our development process ",
+  "main": "src/index.js",
+  "keywords": ["simple-todo", "CRUD", "simply-development", "TODO"],
+  "author": "Mehedi Hasan",
+  "license": "MIT",
+  "files": ["src"]
+}
